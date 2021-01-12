@@ -13,7 +13,7 @@ def link
 end 
 
 def all_phrases
-  puts all_phrases.mario 
-  puts all_phrases.toadstool
-  puts all_phrases.link
+  puts mario 
+  puts toadstool
+  puts link
 end 
